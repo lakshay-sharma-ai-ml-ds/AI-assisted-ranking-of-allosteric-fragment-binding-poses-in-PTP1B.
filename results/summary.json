@@ -1,0 +1,40 @@
+{
+  "paired_ML_minus_Vina_top1_rmsd_A": {
+    "mean_difference": -0.2992728011797384,
+    "percentile_95_CI": [
+      -0.8978184035392152,
+      0.0
+    ],
+    "n_fragments": 5,
+    "resamples": 10000
+  },
+  "folds": [
+    {
+      "held_out_series": "series1",
+      "train_fragments": [
+        "series2:8G67",
+        "series2:8G6A"
+      ],
+      "test_fragments": [
+        "series1:8G65",
+        "series1:8G68",
+        "series1:8G69"
+      ]
+    },
+    {
+      "held_out_series": "series2",
+      "train_fragments": [
+        "series1:8G65",
+        "series1:8G68",
+        "series1:8G69"
+      ],
+      "test_fragments": [
+        "series2:8G67",
+        "series2:8G6A"
+      ]
+    }
+  ],
+  "success_threshold_A": 2,
+  "independent_series": 2,
+  "warning": "Five related fragments in two series; bootstrap CI is descriptive, not confirmatory."
+}

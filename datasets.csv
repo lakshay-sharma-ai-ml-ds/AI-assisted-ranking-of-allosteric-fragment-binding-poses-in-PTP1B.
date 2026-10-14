@@ -1,0 +1,6 @@
+pdb,ligand,series,structure_url,chemistry_url
+8G65,YW9,series1,https://files.rcsb.org/download/8G65.pdb,https://files.rcsb.org/ligands/download/YW9.cif
+8G68,YXF,series1,https://files.rcsb.org/download/8G68.pdb,https://files.rcsb.org/ligands/download/YXF.cif
+8G69,YXN,series1,https://files.rcsb.org/download/8G69.pdb,https://files.rcsb.org/ligands/download/YXN.cif
+8G67,KB8,series2,https://files.rcsb.org/download/8G67.pdb,https://files.rcsb.org/ligands/download/KB8.cif
+8G6A,ZD3,series2,https://files.rcsb.org/download/8G6A.pdb,https://files.rcsb.org/ligands/download/ZD3.cif

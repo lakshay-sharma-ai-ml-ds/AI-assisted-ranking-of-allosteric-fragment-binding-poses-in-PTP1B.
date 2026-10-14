@@ -1,0 +1,11 @@
+# Local environments and generated cache files
+.venv/
+.env/
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# Raw data can be reproduced from datasets.csv.
+data/
+# results/ is deliberately not ignored: commit actual outputs for README embeds.

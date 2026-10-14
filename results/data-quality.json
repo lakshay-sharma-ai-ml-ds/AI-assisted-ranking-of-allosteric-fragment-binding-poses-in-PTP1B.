@@ -1,0 +1,52 @@
+[
+  {
+    "pdb": "8G65",
+    "ligand": "YW9",
+    "ligand_chain": "B",
+    "ligand_residue": "301",
+    "protein_chain": "B",
+    "heavy_atoms": 14,
+    "mean_occupancy": 1.0,
+    "mean_B_A2": 20.571428571428573
+  },
+  {
+    "pdb": "8G68",
+    "ligand": "YXF",
+    "ligand_chain": "B",
+    "ligand_residue": "301",
+    "protein_chain": "B",
+    "heavy_atoms": 15,
+    "mean_occupancy": 1.0,
+    "mean_B_A2": 45.050666666666665
+  },
+  {
+    "pdb": "8G69",
+    "ligand": "YXN",
+    "ligand_chain": "B",
+    "ligand_residue": "303",
+    "protein_chain": "B",
+    "heavy_atoms": 15,
+    "mean_occupancy": 1.0,
+    "mean_B_A2": 21.92733333333333
+  },
+  {
+    "pdb": "8G67",
+    "ligand": "KB8",
+    "ligand_chain": "A",
+    "ligand_residue": "301",
+    "protein_chain": "A",
+    "heavy_atoms": 21,
+    "mean_occupancy": 0.9499999999999998,
+    "mean_B_A2": 44.133333333333326
+  },
+  {
+    "pdb": "8G6A",
+    "ligand": "ZD3",
+    "ligand_chain": "A",
+    "ligand_residue": "301",
+    "protein_chain": "A",
+    "heavy_atoms": 23,
+    "mean_occupancy": 1.0,
+    "mean_B_A2": 61.065652173913044
+  }
+]

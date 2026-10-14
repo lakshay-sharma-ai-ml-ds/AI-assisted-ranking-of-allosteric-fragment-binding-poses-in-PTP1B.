@@ -1,0 +1,8 @@
+#!/bin/sh
+'''exec' "/Users/lakshay/Desktop/PROJECTS & iDEAS/AI-assisted ranking of allosteric fragment-binding poses in PTP1B./ptp1b_pose_ranker/.venv311/bin/python" "$0" "$@"
+' '''
+import sys
+from meeko.cli.mk_prepare_receptor import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())

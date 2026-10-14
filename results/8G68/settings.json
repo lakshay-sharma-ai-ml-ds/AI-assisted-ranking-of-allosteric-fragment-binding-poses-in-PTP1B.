@@ -1,0 +1,22 @@
+{
+  "center_A": [
+    3.5861333333333323,
+    -13.494600000000002,
+    29.141599999999997
+  ],
+  "box_size_A": [
+    22.099,
+    20.0,
+    20.0
+  ],
+  "seeds": [
+    17,
+    41,
+    83
+  ],
+  "exhaustiveness": 32,
+  "cpu": 1,
+  "candidate_source": "AutoDock Vina",
+  "native_pose_injected": false,
+  "receptor": "native holo monomer, rigid"
+}
